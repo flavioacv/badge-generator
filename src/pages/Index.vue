@@ -101,7 +101,7 @@ export default {
           this.titulo +
           '-' +
           this.corFundo.split('#')[1] +
-          '?style=social&logo=' +
+          '?style=for-the-badge&logo=' +
           this.logo +
           '&logoColor=' +
           this.corLogo.split('#')[1]
