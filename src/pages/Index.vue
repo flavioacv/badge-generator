@@ -111,7 +111,6 @@ export default {
       copyToClipboard(this.link)
         .then(() => {
           // success!
-          alert('Copiado')
         })
         .catch(() => {
           // fail
